@@ -1,0 +1,370 @@
+﻿[Event "78th Tata Steel GpB"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.29"]
+[Round "11.4"]
+[White "Safarli, E."]
+[Black "Van Foreest, Jorden"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2653"]
+[BlackElo "2541"]
+[PlyCount "123"]
+[EventDate "2016.01.16"]
+
+1. e4 {I decided to analyse a game I lost, as I thought those games were in
+general a lot more interesting then the ones I won.} e6 $1 {The French
+Defence! Not one of the openings I play usually, but mixing things up once in
+a while can not do a lot of harm.} 2. d4 d5 3. Nc3 {Unfortunately for me my
+opponent didn't play his usual 3.Nd2, against which I had prepared something
+more solid and better than what I played in this game.} Bb4 4. e5 Ne7 5. a3
+Bxc3+ 6. bxc3 b6 {This was the line I had prepared. Probably the line is not
+so good but a couple of my friends convinced me it's quite playable and I
+thought for one game nothing can be too bad.} 7. Qg4 Ng6 {The idea for black
+of course is to play ...Ba6 and try to exchange of the so called bad bishop,
+but in return for that black has to put up a rather unstable defence on the
+kingsside.} 8. h4 h5 9. Qg3 Ba6 10. Bxa6 Nxa6 11. Qd3 Nb8 12. Bg5 Qd7 13. Ne2
+Nc6 14. Qf3 {The pawn on h5 is now quite a big target, and in order to defend
+it I have to weaken my dark squares quite significantly.} Nge7 15. Nf4 g6 16.
+Nh3 {I must confess that at this point I wasn't happy at all with my position.
+White's got some very dangerous plans and my counterplay seems to be way too
+slow. The computer however points out that black should be okay.} Ng8 {This
+didn't feel right at all during the game, but I didn't see anything better.} (
+16... Na5 17. Bf6 Rg8 18. Ng5 {this plan bothered me a lot. White just wants
+to play Nh7 next when Bg5 followed by Nf6 is a huge threat. With some calm
+moves however I could've defended against everything.} Nf5 19. Nh7 Qa4 20. Bg5
+Rh8 21. Nf6+ Kf8 {And somehow I managed to save all my pieces just in time,
+and also black suddenly has some counterplay himself.}) 17. O-O {After my last
+move black luckily for me is still quite solid and it's not so easy to break
+the black position.} Na5 18. a4 {A logical profylactical move against ...Qa4
+which would be a juicy square for the black queen.} Nc4 (18... c5 19. dxc5 bxc5
+) 19. Rfd1 a5 {I had the plan of winning the white pawn on a4 once, and then
+my pawn on a5 is already a little closer to the promotion square.} (19... c5 {
+this is a typical form of counterplay in this position for black, but here it
+seemed way to early for me.} 20. dxc5 $1 {opening up the position.} bxc5 21.
+Nf4 {And here white has so many threats that the position might already be
+lost for black.}) 20. Qf4 Nb2 21. Re1 $1 Nc4 {I have to retreat my knight, but
+it's actually not so easy for white to do something.} (21... Nxa4 {this wins a
+pawn, but black won't be happy about it after 22.c4 which opens up the
+position and leaves black already hopeless against all the threats.} 22. c4)
+22. Ra2 Rb8 {I wanted to play ...b5 at some point and try to create some
+counterplay with my a-pawn. For white it's quite obvious that he has to do
+something on the kingsside. There are probably two plans to do so. The first
+one is to switch the rook from e1 over to f3 and try to do something then, my
+opponent however chose the other one.} 23. f3 {With this move white wants to
+play g2-g4 at some point and open up the kingsside.} Rh7 {I am not quite sure
+anymore why I played this move. My best guess is that I wanted to have f7
+protected in case the f-file opens.} (23... b5 24. axb5 Rxb5) 24. g4 b5 $6 {
+This is too impatient. I felt that I had to create some counterplay, but in
+fact I am just weakening my position and especially the   c5 square right now.}
+(24... Qc6) 25. axb5 Rxb5 26. Qg3 c5 27. gxh5 $6 {My opponent also does not
+play  in the most precise way. The natural 27.Nf4 would have been better, with
+the knight heading for d3 and later on c5.} Rxh5 28. Nf4 {The white knight can
+still go to d3 but actually here I got some play myself too. The f5 square for
+example is a very nice target for my knight on g8.} Rh8 29. h5 gxh5 30. Kf2 $6
+{My opponent told me after the game that his inital intention was to play 30.
+Bf6, but only noticed her that my rook got acces to the f8 square. 30.Kf2
+however is also not the best move. It seems like a very natural move by white,
+but actually the white king is quite vulnerable here.} (30. Bf6 Nxf6 31. Qg7
+Rg8 (31... Rf8 32. exf6 Qd6 $15) 32. exf6 {this was my opponents nice idea,
+but 31...Rf8 spoils the fun for white.}) (30. Raa1 $1 {brining the clumsy rook
+back into would probably have been the best move.}) 30... cxd4 31. cxd4 Qa7 {
+At this point during the game I was very content with my position, and the
+computer actually gives me a large advantage, but still the position is very
+sharp and a single mistake could give the advantage to white.} 32. c3 Ne7 33.
+Qh3 h4 $2 {This is just a blunder, giving all of my advantage away.} (33... Nf5
+$1 {would have been extremely strong, and actually the computer points out
+that black might already be winning here. During the game however I hardly
+considered this move as I thought that after 34.Nxh5, 35.Nf6+ would be a hard
+threat to deal with.} 34. Nxh5 Kf8 $1 {this is a very strong move. The king
+feels unsafe here, but actually if white does not give mate his pieces are out
+of play on the kingsside and it will be black's turn to try and give mate.} 35.
+Bf6 Rh7 36. Qg4 Qb6 $1 {At the next move the black rook comes to b2 with
+decisive effects.}) 34. Bf6 {Now the position is balanced again.} Rg8 35. Qxh4
+Rb3 36. Ne2 Nf5 37. Qh7 Rf8 38. Rg1 $6 {38.Bg7 would have been better but it's
+a very strange move to my eye.} Kd7 39. Rg5 Qb6 $2 {Now the white exchange
+sacrifice is very strong. The simple 39. ..Kc6 or even 39...Nce3 would've
+prevented it.} (39... Nce3 {with the nasty idea of playing ...Rb1.}) (39... Kc6
+40. Rxf5 exf5 41. Qxf5 Qd7 {and compared to the game the black king is much
+safer and white does not have much for the exchange.}) 40. Rxf5 exf5 41. Qxf5+
+Qe6 42. Qh7 {I had missed this simple move when I went for 39...Qb6. Now 43.
+Nf4 seems to be a very annoying idea of white.} Qb6 $6 {I played this as I was
+too afraid of Nf4 coming with tempo when I thought my position would get very
+dangerous, but as my computer points out black is more than fine after 42...
+Kc6.} (42... Kc6 43. Nf4 Qd7 $15) 43. Qg7 Ke8 $2 {I completely missed white's
+idea. I only considered the ugly 43...Qb8 for a couple of seconds...} 44. Ra1
+Qb8 {to play it one move later anyway!} (44... Rb2 {was obviously the move I
+had planned, but it was only here that I noticed that after} 45. Rh1 Rxe2+ {
+chess is not checkers and that white does not have to recapture!} 46. Kg3 {
+Black has run out of checks while 47.Qxf8 and if 47...Kxf8 48.Rh8# is
+impossible to prevent.}) 45. Rh1 $6 (45. Bg5 $1 {with the plan of playing 46.
+Bh6 would've been very hard to deal with.}) 45... Kd7 {This was the idea
+behind 44...Qb8, now my rook is protected and I can try to go for the escape
+with my king.} 46. e6+ {The computer points out that here I could've taken on
+e6. I did not see the refutation of it during my game, but was too afraid to
+take it anyway.} Kc6 47. Be5 $2 {Suddenly my opponent also falters. 47.e7
+would've been the normal move, but things are not so clear after it.} (47. e7
+Rg8 48. Qxf7 Nd6 {and the position is just very hard to judge. The white
+passed pawn is not so dangerous as it looks, while my king has found relative
+safety.}) (47. exf7 Nd6 {is okay for black.}) 47... Nxe5 $2 {I did not expect
+at all that I might have had a winning opportunity, but in actuality I did!} (
+47... Qe8 $1 {I only considered this move very briefly, but felt it should be
+too passive. The truth is however that white does not seem to have any real
+continuation of his attack and that black with his extra material is winning.}
+48. Rh7 fxe6 49. Qc7+ Kb5 50. Qc5+ Ka4 {and the black king feels as if it is
+at home on a4 :)}) 48. dxe5 Rb2 {Nd4+ was a huge threat, so of course I have
+to prevent it.} 49. exf7 Qa7+ 50. Kg3 Qxf7 {Unfortunately I have to go for an
+ending which is drawable but still very dangerous.} (50... Rxf7 $2 51. Qg6+ Kc5
+52. Qd6+ Kc4 53. Qc6+ Kd3 54. Nc1+ $1 Kd2 55. Qxd5+ Kxc3 56. Qc5+ Kd2 57. Rh2+
+{leads to mate.}) 51. Nd4+ Kb7 52. Qxf7+ Rxf7 53. e6 Rf8 $1 {It is important
+to keep the white king cut off.} 54. f4 a4 55. Ra1 Ra8 $2 {Finally I make the
+desicive mistake. I hoped that I could create enough counterplay with my
+passed a-pawn, but I should have realized that this would never had been the
+case.  Rather, I should have gone for active counterplay and try to harass the
+white king.} (55... Rg8+ 56. Kf3 Rbg2 $1 57. f5 (57. Nf5 Rc2) 57... Kc7 $1 {
+The point behind black's play. The black king rushes to e5 which is
+surprisingly hard to prevent. I actually saw this idea during the game but
+just could not quite believe it.} 58. f6 (58. Rxa4 Kd6 59. Ke3 Ke5 $1 60. Nc6+
+Kf6 $11) 58... Kd6 59. f7 R8g3+ 60. Kf4 Rg4+ 61. Ke3 R2g3+ 62. Nf3 Ke7 $11) 56.
+f5 {Now the white pawns are just too strong.} Kc7 57. f6 Kd6 58. Re1 $1 {A
+final accurate move. Nf5 followed by pushing the pawns is now unstoppable.}
+Rbb8 59. Nf5+ Kc6 60. e7 Kd7 61. f7 a3 62. Ng7 {A game with a lot of mistakes,
+but also very interesting and something to learn from!} 1-0
+
+﻿[Event "78th Tata Steel GpB"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.26"]
+[Round "9.4"]
+[White "Adhiban, Baskaran"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "D17"]
+[WhiteElo "2653"]
+[BlackElo "2541"]
+[PlyCount "82"]
+[EventDate "2016.01.16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 {In de voorgaande rondes was
+het mij opgevallen dat Adhiban erg veel theorie kent, en dus besloot ik hem te
+verassen om hem zo uit zijn voorbereiding te halen.} Bf5 {Over het algemeen
+speel ik in plaats van deze zet 5...e6} 6. Nh4 Bc8 $5 {Dit lijkt een vreemde
+zet te zijn. Ik speel mijn loper helemaal terug terwijl ik hem een zet eerder
+nog heb ontwikkeld. Het paard op h4 van wit staat echter niet fantastisch en
+het is niet duidelijk wat wit met zijn extra tempo kan bereiken.} 7. e3 Bg4 8.
+f3 Bd7 {Ik heb mijn loper nog tweemaal gespeeld, maar hier wel mee bereikt dat
+f3 is gespeeld. f3 is een zet die je liever niet speelt omdat het de
+koningsvleugel behoorlijk verzwakt.} 9. f4 {Wit moet deze zet vroeg of laat
+spelen om zijn paard op h4 weer terug in het spel te laten komen via f3.} e6
+10. Bxc4 {Diagram # Ik had voor de partij nog even kort naar deze stelling
+gekeken en had besloten dat 10...Lb4 gevolgd door 11...c5 wel een prima plan
+zou zijn. Ik zie echter weinig op direct 10...c5 tegen.} Bb4 11. O-O c5 12. f5
+$6 {Adhiban probeert gebruik te maken van het paard op h4 door een aanval te
+beginnen. Ik was tijdens de partij echter behoorlijk tevreden toen ik deze zet
+zag. Het leek mij niet dat wit echte aanvalskansen zou hebben omdat zijn
+damevleugel nog onderontwikkeld is.} (12. Na2 {was de zet waar ik vooral bang
+voor was. Wit dreigt nu het loperpaar te veroveren, en het proberen te
+behouden van mijn loper leidt tot pionverlies.} O-O (12... Ba5 13. dxc5 {
+hoewel dit geen geweldige pion is en de witte stukken niet goed staan moet
+zwart toch nog nauwkeurig spelen om gelijkspel te behalen.} e5) 13. Nxb4 cxb4 {
+Was wat ik waarschijnlijk had gespeeld had Adhiban 12.Pa2 gespeeld. Ik heb
+goede controle over de witte velden, maar het witte loperpaar en zijn mooie
+centrum geven hem een klein voordeeltje.}) 12... O-O 13. Na2 {Adhiban speelt
+alsnog Pa2, maar nu zijn de zaken heel wat anders. De pion op f5 verslechtert
+de witte stelling ten opzichte van een zet hiervoor namelijk behoorlijk. Ik
+zag tijdens de partij echter ook niet echt een betere zet voor wit.} (13. fxe6
+Bxe6 14. d5 Bg4 15. Qe1 Nbd7 16. e4 Re8 {dit is een stelling waar wit een erg
+mooi centrum lijkt te hebben en daarnaast ook nog een gedekte vrijpion. Toch
+moet hij hier erg goed oppassen. De zwarte stukken staan allemaal erg actief
+en en als wit een misstap maakt zal zijn centrum in elkaar storten.}) 13... Nc6
+14. Nxb4 cxb4 {Diagram # Mijn stelling begint er telkens beter uit te zien.
+Ik ben al volledig ontwikkeld en het is voor wit nog niet zo gemakkelijk om te
+zien hoe hij zich kan ontwikkelen.} 15. Bd2 $2 {Dit is natuurlijk een logische
+zet, maar hij faalt vanwege tactische redenen.} (15. b3 {was de zet die ik had
+verwacht. Wit kan dan zijn loper spelen naar b2.} e5 $1 {blijft wit echter
+onder druk zetten, en zwart staat iets beter.}) 15... exf5 16. Bd3 {Adhiban
+besluit van de nood een deugd te maken.} (16. Nxf5 Bxf5 17. Rxf5 Nxd4 $1 {was
+wat Adhiban waarschijnlijk had gemist.} 18. exd4 Qxd4+ {met een dubbele aanval.
+}) 16... g6 17. Nxf5 {Dit was uiteraard het plan achter Adhiban's vorige zet.
+Het is echter wel erg moeilijk te geloven dat wit genoeg compensatie voor zijn
+verloren stuk zal krijgen.} Bxf5 18. Bxf5 gxf5 19. Rxf5 Qe7 {Diagram # De
+reden dat wit hier nooit echt genoeg compensatie kan krijgen is dat hij zijn
+overige stukken niet goed bij de aanval kan betrekken. Wanneer wit
+bijvoorbeeld zijn loper naar h4 had kunnen spelen, dan had hij wel wat spel
+gekregen maar de pion op e3 blijft hangen zodra wit dat probeert.} 20. Qf3 Ne4
+21. Bxb4 $1 {Deze zet had ik helemaal gemist en bracht mij wel even aan het
+schrikken. Gelukkig is er nog steeds niet veel aan de hand, want hoewel hij
+een pionterug wint krijgt hij hierdoor ook minder aanvalspotentieel.} Qxb4 $6 {
+Ik dacht een tijdje na over deze zet en vond het moeilijk te beoordelen welke
+manier van terugslaan beter was. Ik koos uiteindelijk voor deze omdat ik dan
+mijn paard van c6 via e7 naar g6 kon brengen waar het een uitstekende
+verdedigende functie zou hebben. Het blijkt echter dat 21...Pxb4 alsnog beter
+zou zijn geweest.} (21... Nxb4 22. Re5 Qd7 23. Qxe4 f5 $1 {Dit idee had ik
+niet gezien. Wit moet zijn dame spelen waarna ...Tae8 volgt en zwart zonder
+veel problemen moet winnen.}) 22. Qxe4 Rae8 23. Qf4 Ne7 24. Rb5 {Diagram #
+In plaats van deze zet had wit een andere mogelijkheid om alsnog wat op de
+koningsvleugel te proberen.} (24. Rg5+ $5 Ng6 25. h4 {waarna h5 een dreiging
+is. Toch denk ik dat ook hier zwart uitstekende winstkansen behoudt na} h6 26.
+Rg4 h5 27. Rg5 Kg7 $17) 24... Qd2 25. Rxb7 {Voor een moment heeft wit drie
+pionnen voor het stuk, maar ik erin geslaagd mijn stukken te laten samenwerken
+wat veel zwaarder weegt.} Ng6 26. Qf2 Qxe3 {Diagram #} 27. Rxa7 $6 {Wits
+laatste kans was nog om direct dames te ruilen, maar ik denk niet dat wit dan
+uiteindelijk de partij zou kunnen redden.} (27. Qxe3 Rxe3 28. Rxa7 Rb8 29. Rf1
+Rxb2 30. Raxf7 {En zoals Dimitri al had uitgewezen in zijn verslag zal er
+waarschijnlijk uiteindelijk een stelling ontstaan waarin wit een toren, en een
+g- en h-pion heeft en ik een toren, h-pion, en paard, wat uiteindelijk toch
+wel zou moeten winnen (hoop ik).}) 27... Qd3 28. Rd7 Re2 29. Qg3 Qxg3 {Volgens
+de computer was 29...Df5 nog sterker, maar ik besloot het zo simpel mogelijk
+te houden.} 30. hxg3 Rb8 {Deze versie van het eindspel is een stuk voordeliger
+voor mij vergeleken met de versie wanneer wit 27.Dxe3 had gespeeld. Ik heb nu
+namelijk al een toren op de tweede rij terwijl de andere toren daar dreigt te
+komen.} 31. Rb1 Nf8 32. Rd6 Rc8 {Diagram # Als het niet via de b-lijn gaat,
+dan maar via de c-lijn.} 33. a5 Rcc2 34. a6 Rxg2+ 35. Kh1 Rxb2 36. Rxb2 Rxb2 {
+De witte pionnen zijn niet echt gevaarlijk en een paar zetten later gaf mijn
+tegenstander zich gewonnen.} 37. d5 Ra2 38. g4 Kg7 39. g5 Ng6 40. Kg1 Nf4 41.
+Kf1 Ra5 0-1
+
+﻿[Event "VMCG GM 2015"]
+[Site "Lueneburg GER"]
+[Date "2015.08.16"]
+[Round "2.5"]
+[White "Van Foreest, Jorden"]
+[Black "Paehtz, Elisabeth"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2519"]
+[BlackElo "2463"]
+[PlyCount "61"]
+[EventDate "2015.08.15"]
+
+1. e4 c6 2. Ne2 {De zogenaamde Short-variant. Ik had het wel eens bekeken,
+maar nooit eerder gespeeld. Vandaag had ik wel zin in iets anders.} d5 3. e5 d4
+(3... Bf5 4. Nd4 {Het idee van de Short variant. Wit heeft nu dit veld tot
+zijn beschikking, omdat wit nog geen d4 heeft gespeeld.} Bg6 5. h4 h5 6. e6 $5)
+4. c3 c5 5. b4 Nc6 $5 {Diagram # Een nieuwe zet die zeker niet slecht is. Ik
+kende alleen 5...d3} (5... d3 6. Nf4 c4 7. e6 {met onduidelijke complicaties.})
+6. bxc5 d3 7. Nf4 Nxe5 8. Qh5 (8. Qa4+ {was een andere mogelijkheid. Maar het
+leek mij onlogisch om zwart te helpen ontwikkelen.} Bd7 9. Qe4 Qc7 10. Nxd3
+Nxd3+ 11. Qxd3 e6) 8... Nc6 {Diagram #} 9. Bxd3 $6 {Na deze zet kan zwart erg
+comfortabel spel bereiken. Het was belangrijk om veld e5 onder controle te
+houden.} (9. Nxd3 $1 {Ik had deze zet nauwlijks overwogen. Voor mij zag het er
+erg onnatuurlijk uit om in plaats van mijn loper te ontwikkelen mijn paard
+voor de derde keer te spelen. Het paard neemt echter de velden c5 en e5 onder
+controle wat belangrijker is.} Nf6 10. Qe2 {En in tegenstelling kan zwart geen
+...e5 spelen, wat hem forceert iets passiever te spelen. De stelling blijft
+hoogst onduidelijk.} e6 11. f4) 9... Nf6 10. Qe2 {Diagram #} g5 {Een erg
+aantrekkelijke zet, maar wellicht niet de beste.} (10... e5 $1 11. Bb5 Be7 12.
+Qxe5 O-O 13. Bxc6 bxc6 {Zwart heeft 2 pionnen minder, maar de witte pion op c5
+zal spoedig vallen, waarna zwart uitstekende compensatie heeft voor zijn pion
+achterstand.}) 11. Nh3 Qd5 {In deze stelling had ik het gevoel dat de partij
+niet lang zou duren, maar dan in mijn nadeel.} 12. O-O Bxh3 13. gxh3 {Ik vond
+mijn stelling er niet uitzien, maar ik zag niet direct hoe zwart Lc4 gevolgd
+door snel d4 kon verhinderen, waarna ik mijn stukken kan ontwikkelen.} O-O-O $6
+{De zwarte koning blijkt hier onveilig te staan. Zelfs nog onveiliger dan de
+mijne waarvan de muur van pionnen er uit ziet als een ruine.} (13... Ne5 {wint
+gelukkig niet direct voor zwart vanwege:} 14. Bb5+) (13... Qxc5 $1 14. Bc4 Qe5
+15. Qxe5 (15. Qf3 $6 g4 $1 {en zwart neemt zelf het iniatief.} 16. hxg4 h5)
+15... Nxe5 {met een ongeveer gelijk eindspel.}) 14. Bc4 Qf5 15. d4 {Diagram #}
+e5 {Dit had Elisabeth natuurlijk gepland. Optisch ziet het er ook uit alsof
+zwart zeker niet minder kan staan met z'on grote ontwikkelingsvoorsprong.
+Plotseling staat de zwarte koning niet meer veilig.} (15... Nd5 $1 16. Qg4
+Qxg4+ 17. hxg4 h5 {en ondanks de dameruil houdt zwart goede compensatie.}) (
+15... Qxh3 $2 16. Bxf7 $18) 16. Bb5 {Ineens is de stellling erg moeilijk voor
+zwart, omdat het paard op c6 niet makkelijk kan spelen, of gedekt kan worden
+terwijl Lxc6 een grote dreiging is.} exd4 (16... Ne7 {was de beste zet geweest
+volgens de computer, maar dit is natuurlijk niet wat zwart wil spelen. Wit
+staat dan hier ook al duidelijk beter.}) 17. Bxc6 bxc6 18. Qa6+ Kb8 19. Na3 {
+Diagram # De zwarte koning is nu in groot gevaar.} Bxc5 $2 {De beslissende
+fout.} (19... Qc8 {Was de laatste kans geweest om in de partij te blijven. De
+witte stelling blijft echter erg goed na bijvoorbeeld 20.Da5} 20. Qa5 (20. Rb1+
+Ka8 21. Qxc8+ Rxc8 22. cxd4 {is ook geen slechte optie, waarna wit een pion
+voor staat zonder al te veel compensatie voor zwart.})) 20. Rb1+ Bb6 21. Rxb6+
+axb6 22. Qxb6+ Kc8 23. Qxc6+ Kb8 24. Bd2 {Diagram # Nu is de dreiging Tb1 echt
+dodelijk. Er is niks meer wat zwart kan doen.} Rhe8 25. Rb1+ Qxb1+ 26. Nxb1 Ne4
+27. cxd4 Re6 28. Qb5+ Kc8 29. d5 Re5 30. Ba5 Rd6 31. Nc3 {Hier dacht Elisabeth
+een paar minuten na voordat ze opgaf. Ik denk dat ze probeerde te begrijpen
+waar het mis was gegaan. Ook ik begreep het eerst niet, want ik vond mijn
+stelling na 11 zetten alles behalve plezierig.} 1-0
+
+[Event "8th BPB Limburg Open 2014"]
+[Site "Maastricht NED"]
+[Date "2014.06.09"]
+[Round "6.4"]
+[White "Van Foreest, Jorden"]
+[Black "Vereggen, L."]
+[Result "1-0"]
+[ECO "B37"]
+[WhiteElo "2448"]
+[BlackElo "2172"]
+[PlyCount "99"]
+[EventDate "2014.06.06"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nc2 d6 7. e4 $6 Bxc3+
+$1 {Deze zet ziet er een beetje vreemd uit omdat zwart zijn sterke
+zwartveldige loper ruilt. Echter mijn pionnenstructuur wordt ernstig verzwakt.}
+8. bxc3 Nf6 9. f3 Be6 10. Nd4 Qa5 11. Bd2 Rc8 12. Qb3 O-O 13. Qxb7 {Ze zeggen
+wel eens: Pak nooit op b7 zelfs al is het goed. Ik denk alleen dat ik hier
+niet zoveel keus heb want als ik wacht gaat zwart vroeg of laat de c4 pion
+winnen. Ik zag tijdens de partij geen werlegging van het pakken op b7 dus ik
+besloot maar gewoon de pion te pakken.} Bd7 14. Nb3 Qh5 15. Be2 Qh4+ $5 {Na
+deze zet wordt het moeilijk voor mij om te rokeren. Ook interessant was 15...
+a5 zodat mijn dame niet makkelijk terug kan keren via a6. En zwart kan het
+witte paard aanvallen met ...a4} (15... a5 $5 16. Qb6 a4 17. Nc1 Ne5 {Ziet er
+niet erg fijn uit voor wit zelfs al vindt de engine het nog ongeveer gelijk
+spel.}) 16. Kf1 {Een onlogische zet. Ik kan nu namelijk nooit meer rokeren.
+Echter na g3 wordt mijn pionnenstructuur nog zwakker dan dat hij nu al was.} (
+16. g3 Qh3 17. Kf2 a5 {Vond ik er tijdens de partij niet fijn uit zien. Ik
+moet altijd rekening houden met offers op e4 en de c4 pion blijft erg zwak.})
+16... Rb8 17. Qa6 Nh5 18. Be1 Qg5 19. h4 {Deze zet ziet er gek uit, maar
+tijdens de partij was ik bang dat zwart mijn (slechte) witveldige loper zou
+pakken met ....Nf4. De witveldige loper dekt nu nog erg veel belangrijke
+velden.} Qe3 (19... Ng3+ 20. Bxg3 Qxg3 21. h5 {Was mijn plan tijdens de partij
+maar de computer heeft natuurlijk altijd weer een weerlegging:} (21. c5 $1 {Is
+waarschijnlijk beter, om de dame bij de verdediging te betrekken.}) 21... gxh5
+$1 22. Rxh5 Kh8 $1 {En als de toren bij de aanval komt is het gedaan voor wit.}
+) 20. c5 Ne5 {Ik had hier al vrij weinig tijd (10 min) voor ongeveer 20 zetten.
+Uiteindelijk besloot ik maar gewoon de pion te pakken nadat ik niet direct zag
+hoe zwart kon winnen zelfs al ziet het er erg gevaarlijk uit.} 21. cxd6 (21.
+Bf2 {Was de andere zet waar ik naar keek.} Qxc3 22. Rc1 Qb2 23. Bd4 Ng3+ 24.
+Kf2 Qxe2+ 25. Qxe2 Nxe2 26. Kxe2 Bb5+ {Dit zag ik mezelf niet winnen tijdens
+de partij dus besloot ik iets riskanter te spelen.}) 21... Bc8 22. Qa3 Nf4 23.
+Qb2 Nxe2 $2 {Lars zag niks dus besloot maar gewoon mijn loperpaar te
+elimineren. Toch kom ik nu los. Hij had activer moeten spelen.} (23... exd6 $1
+24. Qd2 Qxe2+ 25. Qxe2 Nxe2 26. Kxe2 a5 {En in dit eindspel heeft zwart
+voldoende compensatie voor de pion. Mijn koning staat niet veilig en zwart
+staat klaar mijn paard weg te schoppen met .. .a4 of mijn koning lastig te
+vallen met ...Ba6+}) (23... Nxf3 $5 24. Bf2 (24. gxf3 $6 Bh3+ 25. Rxh3 Nxh3 26.
+Kg2 Nf4+ 27. Kf1 $11) 24... Rxb3 25. Bxe3 Rxb2 26. Bxf3 {Leek mij tijdens de
+partij voordelig voor wit.}) 24. Qxe2 Qb6 25. Bf2 Qxd6 26. Kg1 {Nu heb ik
+alles weer redelijk onder controle. Mijn enige probleem was mijn tijd.} Ba6 27.
+Qe3 f5 $5 {Objectief gezien een vrij slechte zet  maar Lars probeerde het spel
+te compliceren aangezien ik vrij weinig tijd had.} 28. h5 $2 {En ik speel
+meteen ook een slechte zet! Ik zag te laat dat na 28...fxe4 29.Qxe4 Rxf3! 30.
+gxf3 Bb7! mogelijk was met erg sterke aanval voor de toren.} (28. exf5 $1 Rxf5
+29. Nd4 $18) 28... f4 (28... fxe4 29. Qxe4 (29. hxg6 Nxf3+ $1 30. gxf3 Qxg6+
+31. Kh2 Rb5 {Is ook niet bepaald aantrekkelijk.}) 29... Rxf3 30. gxf3 Bb7 {
+Deze stelling is natuurlijk erg gevaarlijk. Vooral voor iemand in tijdnood
+zelfs al geeft de computer nog gelijk spel.}) 29. Qc5 Rbc8 30. Qxd6 exd6 31.
+hxg6 hxg6 32. Bd4 {Nu heb ik een pion meer in het eindspel maar het is nog
+zeker niet makkelijk om het te winnen.} Bc4 33. Na5 Be6 34. a4 {Ik weet niet
+precies of dit helemaal goed is want mijn paard kan nu nooit meer terug. Aan
+de andere kant is het voor zwart erg moeilijk het paard ooit aan te vallen.}
+Rc7 35. Rd1 Rb8 36. Rh4 $6 {Een nutteloze zet omdat ik niet kan pakken op f4
+kan pakken na} g5 $6 (36... Kg7 $1 37. Rxf4 $4 g5 {En ik verlies mijn toren.})
+37. Rh5 Nf7 38. Rd2 Rb1+ 39. Kh2 Kf8 40. Rh7 {Hier heb ik eindelijk de
+tijdcontrole gehaald! Het enige minpuntje is dat ik geen voordeel meer heb
+maar dat is maar een detail :)} Ra1 41. Rb2 {Ik probeer natuurlijk binnen te
+komen op de 8ste rij.} Rxa4 42. Rb8+ $6 (42. Nb7 $1 {Was beter om zo veel
+mogelijk stukken op het bord te houden. Toch is het ook hier ongeveer gelijk
+spel. Zelfs al zou ik tijdens de partij liever wit hebben.} Rc6 $11) 42... Ke7
+$2 {Zwart kon een stuk beter meteen torens ruilen om van de matdreigingen te
+zijn verlost.} (42... Rc8 {Met torenruil is ongeveer gelijk spel. Ik moet
+zelfs oppassen want de zwarte a-pion kan zomaar gevaarlijk worden.} 43. Rxc8+
+Bxc8 44. Nc6 $11) 43. Nb7 {Nu is de zwarte koning plotseling in een matnet. Ik
+dreig ook Pd8.} Rd7 44. Rg7 $1 {Ik probeer de toren erbij te halen via g8 of
+g6.} Ra3 $4 {De toren staat hier bijzonder onhandig na de opening van de a3-f8
+diagonaal. Beter was 44...Ta2 waarna zwart duidelijk minder staat maar de
+partij is nog lang niet afgelopen.} (44... Ra2 45. Rg6 Rc7 {Was een betere
+poging geweest. Ook hier is de zwarte stelling geen pretje.}) 45. e5 $1 {Ik
+open de diagonaal f8-a3 voor mijn loper.} Rb3 (45... dxe5 46. Bc5+ {Nu blijkt
+dat a3 niet het handigste veld is voor de zwarte toren.}) 46. exd6+ Rxd6 47.
+Bc5 Kf6 48. Rxf7+ {En opgegeven vanwege} Bxf7 49. Bxd6 Bd5 50. Nc5 $18 1-0
+

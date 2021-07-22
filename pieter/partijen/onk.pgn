@@ -1,0 +1,124 @@
+[Event "Open Nederlans Kampioenschap"]
+[Site "?"]
+[Date "2015.07.21"]
+[Round "1"]
+[White "Tan, Boem"]
+[Black "Van Foreest, Pieter"]
+[Result "1-0"]
+[ECO "C21"]
+[WhiteElo "1811"]
+[BlackElo "1660"]
+[Annotator "Pieter Van Foreest"]
+[PlyCount "65"]
+[TimeControl "60"]
+
+{32MB, Fritz13.ctg, sheila-PC} 1. e4 {[%emt 0:00:00]} e5 {[%emt 0:00:00]} 2. d4
+exd4 3. c3 d5 4. exd5 Qxd5 5. cxd4 Nc6 6. Be3 Nf6 7. Nf3 Bb4+ 8. Nc3 Qa5 9. Qc2
+Bf5 (9... O-O {Was beter geweest.} 10. a3 Bf5 11. Bd3 Bxc3+ 12. bxc3 Bxd3 13.
+Qxd3 Nd5 $15) 10. Bd3 Bxd3 11. Qxd3 O-O 12. O-O Rad8 13. a3 Bd6 14. b4 (14. Bg5
+Nxd4 15. Bxf6 Nxf3+ 16. Qxf3 gxf6 17. Ne4 Be5 18. Nxf6+ $16 {Nu is de koning
+stelling van zwart kapot.}) 14... Qh5 {Het enige veld.} 15. h3 Rfe8 16. Bg5 {
+Ik had Pxd4 gemist} Be5 17. Nxe5 Rxe5 18. Bxf6 gxf6 19. Ne4 Qg6 $2 {Ik had na
+Pxf6 Dxf6 dxe5 niet gezien dat me dame stond aangevallen.} (19... Kh8 20. Nxf6
+Qf5 21. Qxf5 Rxf5 22. Ng4 Nxd4 $11 {En ik heb de pion weer terug gewonnen.})
+20. Nxf6+ Qxf6 21. dxe5 {Dxf2 had nog een pion erbij gekregen.} Nxe5 22. Qg3+
+Kh8 {Met het plan Tg8 om nog wat te proberen.} 23. Rad1 Rg8 24. Qe3 Nf3+ 25.
+Kh1 Nh4 26. Qd4 Qxd4 27. Rxd4 Ng6 28. Rd7 Rc8 29. Rc1 Ne5 30. Rdxc7 Rd8 31. Rc8
+Rxc8 32. Rxc8+ Kg7 33. Rc7 1-0
+
+[Event "onk dieren"]
+[Site "?"]
+[Date "2015.07.30"]
+[Round "9"]
+[White "Timmerman, Iloy"]
+[Black "Van Foreest, Pieter"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "1679"]
+[BlackElo "1660"]
+[Annotator "Doe,John"]
+[PlyCount "64"]
+
+1. c4 e6 2. Nc3 Nf6 3. g3 Be7 4. Bg2 O-O 5. d4 d5 6. cxd5 exd5 7. Bf4 Bf5 8.
+Qb3 {Deze had ik gemist maar het is niet zo erg na de variant hier onder.} Bc8
+(8... Nc6 9. Qxb7 Nxd4 10. Bxc7 Qc8 11. Qxc8 Nc2+ 12. Kd2 Raxc8) 9. Bxd5 Nxd5
+10. Nxd5 c6 11. Nxe7+ {Hier hadden wij allebij Pc7 gemist.} Qxe7 12. e3 Be6 13.
+Qd1 {Ik had zelf Dc3 gespeelt omdat je dan e3 nog dekt.} Bd5 14. f3 Nd7 (14...
+g5 15. Bxb8 Qxe3+ 16. Qe2 Qxe2+ 17. Nxe2 Bxf3 18. Rf1 Bxe2 19. Kxe2 Raxb8 {Was
+beter geweest.}) 15. Nh3 f6 16. e4 g5 17. Be3 g4 18. Nf2 f5 19. O-O gxf3 20.
+Qxf3 {Beter was ...} (20. exd5 Qxe3 21. dxc6 bxc6 22. Qb3+ Qxb3 23. axb3 {
+[%csl Ra7,Rb2,Rb3,Rc6,Rd4,Rf3,Rf5,Gg3,Gh2,Rh7]}) 20... Bxe4 {En van af hier
+was het remise.} 21. Nxe4 Qxe4 22. Qxe4 fxe4 23. Rf4 Rxf4 24. Bxf4 Re8 25. Re1
+Kf7 26. Kf2 Kg6 27. g4 h5 28. h3 Nf6 29. Kg3 hxg4 30. hxg4 Nd5 31. Be5 e3 32.
+a3 Kg5 1/2-1/2
+
+[Event "Open Nederlans Kampioenschap"]
+[Site "?"]
+[Date "2015.07.22"]
+[Round "2"]
+[White "Van Foreest, Pieter"]
+[Black "Neering, Paul"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1660"]
+[BlackElo "1725"]
+[Annotator "Doe,John"]
+[PlyCount "53"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nc3 d5 $2 {Vond ik
+slecht omdat ik een pion won.} 7. c5 Nc4 8. Bxc4 dxc4 9. Qa4+ c6 10. Qxc4 Be6
+11. Qa4 Nd7 12. Bf4 $2 {Na deze zet kan zijn pion terug winnen.} Nf6 $2 (12...
+Bxc5 13. dxc5 $2 Nxc5 14. Qc2 Nd3+ 15. Kf1 Nxf4) 13. Bg3 Be7 14. Nf3 O-O 15.
+Nd2 $2 {Met het plan Pd2/c3,Pe4,Pd6} Nh5 16. Nde4 $2 Nxg3 $2 (16... f5 17. Nd2
+{En het paard moet terug en zwart wint een stuk.}) 17. hxg3 f5 18. Nd2 Bf6 19.
+Nf3 Re8 20. O-O-O b5 21. Qa6 b4 22. Ne2 b3 23. a3 Qd5 24. Nc3 Qc4 25. Qxc6 Rad8
+26. Rhe1 Bxd4 27. Rxd4 {En ik win de Dame of mat.} 1-0
+
+
+[Event "Open Nederlans Kampioenschap"]
+[Site "?"]
+[Date "2015.07.24"]
+[Round "4"]
+[White "Van Foreest, Pieter"]
+[Black "Huseyin, Turp"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1660"]
+[BlackElo "1558"]
+[Annotator "Doe,John"]
+[PlyCount "90"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bg4 7. O-O e6 8.
+Re1 Be7 9. Ne4 O-O 10. h3 Bf5 (10... Bxf3 11. gxf3 {En de koning stelling is
+kapot.} (11. Qxf3 $4 Qxe1+)) 11. Ng3 Bg6 12. Bd2 Qc7 13. Ne5 Nbd7 14. Nxg6 hxg6
+15. Qe2 Nd5 16. Ne4 N7f6 17. Bd3 Nf4 18. Bxf4 Qxf4 19. g3 Qc7 20. Nc3 Bd6 21.
+Ne4 Nxe4 22. Qxe4 {als je hier Lxg3 doet kan je later de pion op b2 niet
+pakken.} Rad8 23. c4 Bxg3 24. fxg3 Qxg3+ 25. Kf1 Qxh3+ 26. Ke2 Qh2+ 27. Kd1
+Qxb2 28. Rb1 Qxd4 29. Qxd4 Rxd4 30. Kc2 Rfd8 31. Re3 b6 32. Rd1 c5 33. a4 a5
+34. Rb1 R8d6 35. Rf1 f5 36. Kc3 Kf7 37. Bc2 Kf6 38. Rg3 g5 39. Rfg1 g4 40. Rf1
+Kg5 41. Rfg1 g6 42. R3g2 e5 43. Rg3 e4 44. R3g2 e3 45. Re1 f4 0-1
+
+[Event "onk dieren"]
+[Site "?"]
+[Date "2015.07.25"]
+[Round "5"]
+[White "Van Strien, Bart"]
+[Black "Van Foreest, Pieter"]
+[Result "1-0"]
+[ECO "A23"]
+[WhiteElo "1699"]
+[BlackElo "1660"]
+[Annotator "pieter van foreest"]
+[PlyCount "57"]
+
+1. g3 e5 2. c4 Nf6 3. Bg2 Bc5 4. Nc3 c6 5. e3 d5 6. cxd5 cxd5 7. d4 exd4 8.
+exd4 Bb6 9. Nge2 O-O 10. O-O Nc6 11. Bg5 Be6 12. Bxf6 Qxf6 13. Nxd5 Bxd5 14.
+Bxd5 Bxd4 15. Nxd4 {Hij had ook ....} (15. Bxc6 Bxb2 16. Bxb7 Rad8 17. Qe1 Bxa1
+18. Qxa1 Qxa1 19. Rxa1 $16 {kunnen spelen.}) 15... Nxd4 16. Bxb7 Rab8 17. Bg2
+Rxb2 18. f4 Ne2+ (18... Nc2 {Had een kwal + pion gewonnen + goede stelling.}
+19. Rc1 (19. Re1 Nxa1 20. Qxa1 Qd4+ 21. Kh1 Qf2 22. Rg1 Rxa2 $18) 19... Ne3 {
+[%cal Rb2g2,Re3d1,Re3f1,Re3g2]} 20. Qf3 Rxg2+ 21. Kh1 Qb2 $18) 19. Kh1 Rd8 20.
+Qa4 Qh6 21. Qa3 Rdd2 22. Rfd1 Qf6 23. Rxd2 Rxd2 24. Rb1 Qd8 25. Qb3 Nc3 26. Re1
+Nd5 27. Bxd5 Kh8 $4 {Ik had gemist dat na ... Txd5 Dxd5 Dxd5 schaak was.} (
+27... Rxd5 28. Qxd5 $4 Qxd5+ $18 {[%cal Rd5h1]}) 28. Qb5 Rd1 29. Rxd1 1-0
+

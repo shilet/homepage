@@ -1,0 +1,186 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>RealChess</title>
+    <link href="css/common.css" rel="stylesheet" type="text/css" />
+    <link href="menu_assets/styles.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+	.style1
+    {
+        font-family: Verdana;
+        font-weight: bold;
+        font-size: xx-large;
+    }
+					
+	
+		
+    </style>
+</head>
+<body>
+
+<center>
+<table width="99%">
+
+<tr valign="top"><td align="left" valign="top">
+
+<table><tr>
+<td  style="text-align: right" valign="bottom" class="style1">RealChess   </td>
+<td> <img style="width: 50px;" alt="" src="images/wq.png" /></td>
+  <td></td>
+  </tr></table>
+
+
+<nav>
+<ul>
+   <li><a href='index.html'><span>Home</span></a></li>
+   <li><a href='challenges.html'><span>Challenges</span></a>
+		<ul>
+		<li><a href="realchessbasic.html"><span>RealChess</span></a></li>
+		<li><a href="blindchess.html"><span>BlindChess</span></a></li>
+		<li><a href='threats.html'><span>Threats</span></a></li>
+		<li><a href='choosemove.html'><span>ChooseMove</span></a></li>
+		<li><a href='ap.html'><span>Attacked Pieces</span></a></li>
+		<li><a href='up.html'><span>Undefended Pieces</span></a></li>
+		</ul>
+	</li>
+	 <li><a href="settings.html"><span>Settings</span></a></li>
+   <li><a href="download.html"><span>Download</span></a></li>
+   <li><a href='support.html'><span>Support</span></a></li>
+</ul>
+</nav>
+
+<h1>Attacked Pieces</h1>
+<div class="p">
+Select all pieces that are under attack.  Like in the blindchess challenge, it is possible to control the number of
+blind moves in the settingsscreen. The standard level can be used by beginners, to learn to find all the pieces under attack. When the number of blindmoves increases, the difficulty increases as well. Your board visualisation skills will improve by doing these exercises.
+</div>
+<h2>Example 1</h2>
+<!-- 0 blindmoves -->
+<div class="img">
+  <a target="_blank" href="images/ap/ap0_1.png">
+    <img src="images/ap/ap0_1.png" alt="ap0_1"  >
+  </a>
+  <div class="desc">Select all attacked white pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap0_2.png">
+    <img src="images/ap/ap0_2.png" alt="ap0_2"  >
+  </a>
+  <div class="desc">Correct!</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<h2>Example 2</h2>
+<!-- 0 blindmoves, incorrect  -->
+<div class="img">
+  <a target="_blank" href="images/ap/ap0_1_incorrect.png">
+    <img src="images/ap/ap0_1_incorrect.png" alt="ap0_1_incorrect" width="200" >
+  </a>
+  <div class="desc">Select all attacked black pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap0_2_incorrect.png">
+    <img src="images/ap/ap0_2_incorrect.png" alt="ap0_2_incorrect" width="200" >
+  </a>
+  <div class="desc">Incorrect! The bishop on e4 has been selected, but is not attacked.</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<!-- 0 blindmoves, incorrect -->
+<h2>Example 3</h2>
+<div class="img">
+  <a target="_blank" href="images/ap/ap00_1_incorrect.png">
+    <img src="images/ap/ap00_1_incorrect.png" alt="ap00_1_incorrect" width="200" >
+  </a>
+  <div class="desc">Select all attacked black pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap00_2_incorrect.png">
+    <img src="images/ap/ap00_2_incorrect.png" alt="ap00_2_incorrect" width="200" >
+  </a>
+  <div class="desc">Incorrect! The pawns on c3 and d4 have not been selected, but are both attacked by the black rook on c4.</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<!-- 2 blindmoves -->
+<h2>Example 4: 2 blindmoves</h2>
+<div class="img">
+  <a target="_blank" href="images/ap/ap2_1.png">
+    <img src="images/ap/ap2_1.png" alt="ap2_1" width="200" >
+  </a>
+  <div class="desc">Calculate 2 moves ahead (1...Bg4 2.Be2 dxe5 3.Nxe5), then select all attacked black pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap2_2.png">
+    <img src="images/ap/ap2_2.png" alt="ap2_2" width="200" >
+  </a>
+  <div class="desc">Correct!</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<!-- 4 blindmoves -->
+<h2>Example 5: 4 blindmoves</h2>
+<div class="img">
+  <a target="_blank" href="images/ap/ap4_1.png">
+    <img src="images/ap/ap4_1.png" alt="ap4_1" width="200" >
+  </a>
+  <div class="desc">Calculate 4 moves ahead (1.Nh4 Nxb3 2.axb3 Bxe4 3.g5 Bb7 4.gxf6 Bxf6), then select all attacked white pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap4_2.png">
+    <img src="images/ap/ap4_2.png" alt="ap4_2" width="200" >
+  </a>
+  <div class="desc">Correct!</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<!-- 6 blindmoves -->
+<h2>Example 6: 6 blindmoves</h2>
+<div class="img">
+  <a target="_blank" href="images/ap/ap6_1.png">
+    <img src="images/ap/ap6_1.png" alt="ap6_1" width="200" >
+  </a>
+  <div class="desc">Calculate 6 moves ahead (1.Rb1 h6 2.g3 Rfc8 3.Rb5 Nf6 4.Be3 Ne4 5.Rbb7 Nd6 6.Rd7 Nb5), then select all attacked white pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap6_2.png">
+    <img src="images/ap/ap6_2.png" alt="ap6_2" width="200" >
+  </a>
+  <div class="desc">Correct!</div>
+</div>
+<br>
+<br style="clear:both" />
+
+<!-- 8 blindmoves -->
+<h2>Example 7: 8 blindmoves</h2>
+<div class="img">
+  <a target="_blank" href="images/ap/ap8_1.png">
+    <img src="images/ap/ap8_1.png" alt="ap8_1" width="200" >
+  </a>
+  <div class="desc">Calculate 8 moves ahead (1...Re7 2.Qc3 Rc7 3.Qd4 Bc8 4.Re1 a6 5.Be4 Rc4 6.Qd3 Rxb4 7.Bh7+ Kf8 8.Qe3 Bd7 9.Qa7), then select all attacked black pieces.</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="images/ap/ap8_2.png">
+    <img src="images/ap/ap8_2.png" alt="ap8_2" width="200" >
+  </a>
+  <div class="desc">Correct!</div>
+</div>
+<br>
+<br style="clear:both" />
+
+
+<br>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+[Event "Dieppe open B"]
+[Site "9"]
+[Date "2014.08.22"]
+[Round "1"]
+[White "van Foreest, Pieter"]
+[Black "WOYAVE , Pascal"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1693"]
+[BlackElo "1574"]
+[Annotator "Doe,John"]
+[PlyCount "41"]
+[EventDate "2014.08.22"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[WhiteTeam "NEDERLAND"]
+[BlackTeam "BELGIE"]
+[WhiteTeamCountry "AHO"]
+[BlackTeamCountry "BEL"]
+
+1. e4 e6 {Zwart speelt Frans in Frankrijk. haha} 2. d4 d5 3. Nd2 {. . .
+Tarrasch.} Nf6 4. e5 Nfd7 5. f4 g6 $2 {Kende ik niet, volgens mij is normaal:}
+(5... c5 6. Ngf3 Be7 7. Nb3 c4 8. Nbd2 O-O 9. Be2 Nc6 10. Nf1) 6. Ngf3 {Ik
+speelde de normale variant.} c5 7. Nb3 c4 8. Nbd2 Nc6 9. Be2 Qb6 $2 {Deze zet
+dreigt Pxd4 maar dat is makkelijk te dekken en nu kan zwart geen b5 meer doen.}
+({Beter was.} 9... b5 10. Nf1 b4 11. Ne3 Be7 12. O-O O-O) 10. Nf1 {Beter was
+c3 om d4 te dekken.} Bg7 $2 {Zwart heeft het verkeerde plan, deze stelling is
+al niet goed maar je moet geen korte rokkade doen want wit heeft daar een
+goede aanval.} 11. Ne3 O-O 12. O-O Qd8 13. g4 {Dit speelde ik om f5 te doen.} (
+{Dit was beter omdat je een pion wint.} 13. b3 b5 14. a4 b4 15. bxc4 dxc4 16.
+Nxc4 {[%csl Gd6]}) 13... f5 $2 {nu staat zwart al heel slecht, zwart kon nog
+spel houden met:} (13... f6 14. g5 fxe5 15. fxe5 $16 {en omdat wit veel meer
+ruimte heeft staat wit beter.}) 14. gxf5 gxf5 {De g lijn is nu geopend en
+zwart wordt bijna mat gezet} 15. Kh1 Re8 16. Rg1 Nf8 17. Ng5 Ne7 $2 {De 
+verliezende zet; wat mij met een offer de partij laat winnen.} (17... b5 18. c3
+Bd7 19. Qf1 $18 {Met een gevaarlijke aanval.}) 18. Bh5 Neg6 19. Nxh7 $1 Qh4 ({
+Stel} 19... Kxh7 20. Bxg6+ Nxg6 21. Qh5+ Kg8 22. Rxg6 $18 {en wit wint.}) 20.
+Nxf8 Nxf8 21. Bxe8 1-0
+

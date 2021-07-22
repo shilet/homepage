@@ -1,0 +1,90 @@
+[Event "NK Jeugd 2013, A Jeugd"]
+[Site "Sneek"]
+[Date "2013.04.28"]
+[Round "2"]
+[White "Ratsma, Midas"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "A13"]
+[Annotator "Jorden"]
+[PlyCount "54"]
+[EventDate "2013.04.27"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[TimeControl "6000+1025"]
+[WhiteClock "0:10:04"]
+[BlackClock "0:22:42"]
+
+1. Nf3 {I didn't really prepare for this round because I saw that my opponent
+played boring openings.} Nf6 2. c4 e6 3. e3 b6 4. Nc3 Bb7 5. b3 d5 6. Bb2 Nbd7
+7. d4 Bd6 8. Qc2 O-O 9. Be2 Qe7 10. O-O a6 11. Rad1 Rfe8 12. Nd2 c5 {I think
+that i'm already slightly better here because my opponent was playing without
+any particular plan.} 13. dxc5 bxc5 14. cxd5 exd5 15. Nf3 Ne5 16. Qf5 Rad8 17.
+Na4 d4 $1 {I opened here the position because al my forces are ready for the
+attack.} (17... Neg4 {Herman Grooten thinks that this is the best move but it
+isn't} 18. b4 cxb4 19. Bd4 $17) 18. exd4 Be4 19. Qh3 Ng6 20. g3 Nd5 $1 {I had
+seen this far and I concluded that this was very good because Nf4 is very
+difficult to prevent.} 21. Ne5 $2 (21. Bc1 {This was the best move but even
+here white is lost.} Bf4 $1 {Of course the white defender of the square f4 has
+to be eliminated.} 22. Ba3 (22. Bxf4 $2 Ndxf4 23. gxf4 Nxf4 24. Qg4 Nxe2+ 25.
+Kh1 Qh4 26. Qxh4 Bxf3#) 22... Qf6 $1 23. Ne5 (23. dxc5 Bc7 {[%cal Gg6f4]} 24.
+Qg4 (24. Bc1 Bxf3) 24... h5 $1 25. Qg5 (25. Qxh5 Ngf4) 25... Ngf4 26. gxf4 Nxf4
+27. Qxf6 Nxe2+ 28. Kg2 gxf6 $19) 23... Bxe5 24. dxe5 Ngf4 25. Qg4 Qf5 26. gxf4
+Nxf4 27. Bf3 Nh3+ 28. Qxh3 Qxh3 29. Rxd8 (29. Bxe4 Rxd1 30. Rxd1 Qg4+) 29...
+Rxd8 30. Bxe4 Rd1 31. Rxd1 (31. Bg2 Rxf1+ 32. Bxf1 Qg4+ 33. Bg2 c4 $19 {and
+because of white very bad coordination he is lost!}) 31... Qg4+ 32. Bg2 Qxd1+
+33. Bf1 c4 $1 34. Nc5 c3 35. Nd3 Qd2 36. Bc1 Qxa2 37. b4 Qd5 $19) 21... Ngf4
+22. gxf4 Nxf4 23. Qg4 Bxe5 (23... Qg5 {This looks like a great move but white
+can still play on after f3.} 24. f3 (24. Qxg5 $4 Nh3#) 24... Rxe5 25. Qxg5
+Rxg5+ 26. Kh1 Nxe2 27. fxe4 Rh5 28. Rf2 $17) (23... Nxe2+ $2 24. Qxe2 Bxe5 {
+Also looks winning but after} 25. f3 {It is white who is better!}) 24. Bc1 (24.
+dxe5 Nxe2+ 25. Qxe2 Qg5+) 24... Nxe2+ {And white resigned because of} 25. Qxe2
+Bxh2+ 26. Kxh2 Qh4+ 27. Kg1 Qh1# 0-1
+
+[Event "NK Jeugd 2013, A Jeugd"]
+[Site "Sneek"]
+[Date "2013.05.04"]
+[Round "8"]
+[White "Von Meijenfeldt, Bart"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "2150"]
+[BlackElo "2207"]
+[Annotator "Jorden"]
+[PlyCount "198"]
+[EventDate "2013.04.27"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[TimeControl "6000+1320"]
+[WhiteClock "0:08:29"]
+[BlackClock "0:47:53"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Qe2 Nge7 8.
+Be3 O-O 9. O-O-O f5 10. f4 fxe4 11. g3 Qe8 {Until here I knew it but from here
+on I was on my own.} 12. Bxb6 {I am not sure if this is the best move 12.Bg2
+look better to me.} axb6 13. Qxe4 Bf5 14. Qc4+ Kh8 {Here I could not calculate
+if d5 was good or not. According to the engine it is possible but it is not so
+clear.} (14... d5 $1 15. Qb5 {And i didn't really see aa good defence against
+Bg2 and my pawn on d5 is hanging.} (15. Nxd5 Nxd5 16. Bg2 Kh8 17. Bxd5 Rxa2 18.
+Bxc6 bxc6 19. Kb1 Qa8 $11) 15... Kh8 16. Bg2 Qg6 17. Rd2 d4 18. Nxd4 Nxd4 19.
+Rxd4 Nc6 20. Rd2 Bxc2 $1 21. Rxc2 (21. Qg5 $5) 21... Nd4 $13) 15. Bd3 $2 d5 $1
+16. Nxd5 (16. Qb5 d4) 16... Nxd5 17. Qxd5 Nb4 18. Qc4 $6 Ra4 $1 {And white is
+already lost here.} 19. Qxc7 Nxd3+ 20. cxd3 Qe3+ 21. Kb1 (21. Kc2 Rc8 22. Qxc8+
+Bxc8 23. Rhe1 Qf2+ 24. Kb1 Bd7 $19) 21... Bxd3+ 22. Rxd3 (22. Ka1 Rxa2+ 23.
+Kxa2 Ra8+ 24. Na5 Rxa5+ 25. Kb3 Rb5+ 26. Kc3 Bb1+ 27. Kc4 Qb3+) 22... Qxd3+ 23.
+Qc2 Qxc2+ 24. Kxc2 {The rest is just a matter of technique although it took me
+quite a while to win it.} Rxa2 25. Nd4 Ra4 26. Nb5 g5 27. fxg5 Rb4 28. Nc3 Rf2+
+29. Kd3 Rbxb2 30. Ne4 Rf3+ 31. Kc4 b5+ 32. Kd5 Re2 33. Rb1 Kg7 34. h4 Kg6 35.
+Rb4 Rd3+ 36. Ke5 Rxg3 37. Rxb5 Rge3 38. Rb6+ Kh5 39. Kf5 Rf3+ 40. Ke5 Rf7 41.
+Rh6+ Kg4 42. g6 hxg6 43. Rxg6+ Kxh4 44. Rh6+ Kg4 45. Rg6+ Kh3 46. Re6 Kg2 47.
+Kd4 Rd7+ 48. Kc4 Rc2+ 49. Kb3 Rcc7 50. Rf6 Rd3+ 51. Kb2 Re7 52. Rf2+ Kg1 53.
+Re2 Rc7 54. Nd2 Rg3 55. Re1+ Kf2 56. Re6 Re3 57. Rf6+ Ke2 58. Nb1 Kd3 59. Rd6+
+Kc4 60. Na3+ Kc5 61. Rd2 Re6 62. Rd3 Kb6 63. Kb3 Ka6 64. Nc4 b5 65. Ne3 Ka5 66.
+Nd5 Rc5 67. Rd2 Re4 68. Ra2+ Ra4 69. Rd2 b4 70. Kb2 Kb5 71. Ne3 Ra3 72. Nc2
+Rac3 73. Nd4+ Ka4 74. Rd1 Rh5 75. Rd2 Rch3 76. Ne2 Rh2 77. Kb1 R5h3 78. Ra2+
+Kb5 79. Rd2 Rh1+ 80. Kc2 Ra3 81. Kb2 Raa1 82. Rd5+ Ka4 83. Rd4 Rhb1+ 84. Kc2
+Ka3 85. Rd8 b3+ 86. Kc3 Rc1+ 87. Nxc1 Rxc1+ 88. Kd2 b2 89. Ra8+ Kb3 90. Rb8+
+Ka2 91. Ra8+ Kb1 92. Ra7 Rc8 93. Kd1 Rd8+ 94. Ke2 Rd5 95. Ra8 Kc2 96. Rc8+ Kb3
+97. Rb8+ Kc3 98. Rc8+ Kb4 99. Rb8+ Rb5 0-1
+

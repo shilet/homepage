@@ -1,0 +1,66 @@
+[Event "?"]
+[Site "?"]
+[Date "2014.04.??"]
+[Round "2"]
+[White "van Foreest, Lucas"]
+[Black "Devereaux"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2150"]
+[BlackElo "2350"]
+[PlyCount "96"]
+[EventDate "2014.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 {Ik ken deze opening niet, het idee
+achter de opening is dat zwart een pion geeft voor het centrum. In de database
+speelde mijn tegenstander iets heel anders maar hij zei in de analyse dat hij mij wilde verrassen
+en hij wou ook een scherpere stelling omdat hij zag dat ik een positionele
+speler ben.} 5. dxe6 {Lijkt mij geforceerd.} fxe6 6. cxb5 a6 7. bxa6 Be7 8. e3
+O-O 9. Nc3 {Ik probeerde gewoon mijn stukken op normale plekken te ontwikkelen,
+ik zag geen goede compensatie voor zwart behalve dat zijn stukken wat actiever
+staan.} d5 10. Be2 Nxa6 11. O-O Qb6 12. b3 Bd7 {Zwart probeert zijn stukken op
+goede velden neer te zetten, en dan d5-d4 spelen of e6 - e5 wat moeilijker is.}
+13. e4 {Ik dacht dat ik hiermee zwart onder druk kon zetten, maar ik heb d4
+onderschat, waarna het gelijkspel is. Het zou beter zijn om gewoon normaal
+verder te gaan met Lb2 en Pe5.} Bc6 $6 {Nu krijgt wit voordeel, zwart zei in
+de analyse dat hij Pe5 heeft gemist.} (13... d4 $1 14. e5 Nd5 15. Ne4 $13 {Ik
+dacht dat deze stelling goed was voor mij, maar de stelling is erg onduidelijk,
+want ik kan mijn extra pion niet goed gebruiken en zwarts stukken staat hier
+erg actief. De engine zegt dat het gelijk staat en dat lijkt me ook zo.}) 14.
+Ne5 Nxe4 $2 $16 {Nu staat wit duidelijk beter(+1.00), zwart had niet de
+paarden moeten ruilen want zijn paard op f6 is beter dan het paard op c3.} (
+14... dxe4 15. Nxc6 Qxc6 16. Bb5 Qd6 17. Bc4 Nb4 18. Bb2 $14 {En wit staat
+beter maar zwart heeft nog wel tegenspel.} (18. Qxd6 Bxd6 19. Bxe6+ Kh8 $44 {
+[%csl Ra2][%cal Gd6e5] En zwart heeft compensatie voor de pion.})) (14... Bb7 {
+Deze zet ziet er logisch uit.} 15. exd5 exd5 16. Re1 Rad8 17. Bg5 $14 {[%csl
+Rd5] Maar zwart centrum staat heel erg onder druk; dit lijkt mij een
+vervelende stelling voor zwart.}) 15. Nxe4 dxe4 16. Bc4 {Dit is echt een hele
+vervelende stelling voor zwart, zijn stukken zijn ongecoordineerd, en heeft
+ook nog 2 zwakke dubbelpionnen(e6 en e4) .} Bb5 {Misschien is Pc7 beter, met
+het plan Pd5, hoewel Pd7 vervelend is.} 17. Nd7 Bxd7 18. Qxd7 Bf6 19. Rb1 $6 (
+19. Qxe6+ $1 {Ik dacht niet dat deze zet goed was omdat zwart de pion weer
+terug won maar dat is niet heel erg.} Qxe6 20. Bxe6+ Kh8 21. Rb1 Nc7 22. Bc4
+Rxa2 23. Be3 Bd4 24. Rbd1 Rd8 (24... Bxe3 $2 25. fxe3 $16 {[%csl Gc4,Rc7,Re4]
+[%cal Gc4e6,Gc4a6] Dit lijkt me een heel erg plezierige stelling voor wit, en
+ook een gewonnen stelling voor wit.}) 25. Rfe1 $16 {En wit wint een pion en ik
+denk dat wit hier gewonnen staat, zwart paard is slecht en ik heb een
+geweldige loper, ik heb maar tot zet 22 Txa2 gerekend.}) 19... Rfe8 20. Be3 Re7 21.
+Qb5 Qxb5 22. Bxb5 Bd4 {Dit geeft een pion weg maar dit verliest zwart
+waarschijnlijk sowieso en nu kan hij nog zijn zwarte loper voor mijn goede
+loper ruilen.} 23. Bc6 Raa7 24. Bxe4 Bxe3 25. fxe3 Nb4 26. Rbd1 g6 27. a4 Nd5 {
+Zwart wil graag naar een 2 torens eindspel gaan wat waarschijnlijk remise is,
+maar mijn loper is beter dus ruil ik niet.} 28. Rd3 Kg7 29. Rc1 Ra5 30. Bxd5 $2
+{Nu is het misschien remise, het lijkt mij nu goed op Lf3 te spelen en e4 en
+e5, en zwart kan toch niks doen.} exd5 31. Rxd5 Rxe3 32. b4 $2 $11 {Hiermee
+gooi ik al het voordeel weg, ik heb gemist dat als ik mijn toren de g-pion dek
+dat zwart dan Tc2 kan spelen en dan de pion terugwint, ik probeerde nog op de
+winst te spelen maar het was al remise.} ({Na} 32. Rd7+ {Het plan van wit is
+om de h7 pion aan te vallen met de toren op c1, ik weet niet of het gewonnen
+is maar zwart heeft goede winskansen.} Kh6 33. Rb7) 32... Rxa4 33. bxc5 Ra2 34.
+Rg5 Ree2 35. h4 h6 36. Rg3 Rac2 37. Ra1 Rxc5 38. Ra7+ Kf6 39. Ra6+ Re6 40.
+Rxe6+ Kxe6 41. Rxg6+ {Ik dacht hier voor een moment dat ik gewonnen stond maar
+het is remise, zijn koning staat heel actief en mijn h - pion is zwak.} Kf5 42.
+Rxh6 Kg4 43. Kh2 (43. Kf2 {Is ook remise.} Rc8 44. Rh7 Rf8+ 45. Ke3 Re8+ 46.
+Kf2 Rf8+ $32) 43... Ra5 44. Rh8 Rb5 45. h5 Kg5 46. Kh3 Ra5 47. h6 Kg6 48. g3
+Ra4 1/2-1/2
+

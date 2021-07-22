@@ -1,0 +1,49 @@
+[Event "Malakoff"]
+[Site "?"]
+[Date "2014.04.??"]
+[Round "1"]
+[White "-"]
+[Black "van Foreest, Lucas"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1950"]
+[BlackElo "2150"]
+[PlyCount "74"]
+[EventDate "2014.??.??"]
+[SourceDate "2014.04.21"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 {Deze opening ken ik nog niet goed, en ik had niet
+kunnen voorbereiden want het is ronde 1.} Bg7 4. e3 d6 5. h3 O-O 6. Be2 Nbd7 7.
+O-O c5 8. c3 {Nu kende ik het niet meer.} b6 9. Nbd2 Bb7 10. a4 Re8 {Ik zag
+geen plan voor zwart, wits plan is a4 - a5 maar in de partij had ik dat
+onderschat. In de reference werd door zwart het paard op e4 geruild en dan
+spelen ze e5, of d5 en dan e5.} 11. Bh2 {Ik dreig e5.} Qc7 {Ik wou ook e5
+voorbereiden maar dit is denk ik wel gevaarlijk want ik ga nu op de diagonaal
+van de loper staan.} 12. Bc4 {Het duurde een paar minuten voordat ik het plan
+van deze zet zag: de f7 pion aanvallen, wat erg vervelent is want ik moet  nu
+e6 spelen, als ik Tf8 speel kan wit Pg5 spelen.} Rad8 {Probeer al mijn stukken
+naar het centrum te brengen, om e5 voor te bereiden, maar wits tegenspel op de
+damesvleugel is sneller.} 13. Qb3 e6 14. a5 Nb8 $2 {Ik wou mijn paard op c6
+zetten, waar het minder in de weg staan en ook a7 dekt, waar de toren van wit
+mogelijk kan binnendringen. Het probleem van deze zet is dat de b6 pion zwak
+wordt. Beter was axb5 Da3 a4 Lb5 a6 Lxa4 Te7 en dan Pb6 met een ongeveer
+gelijke stelling, na Pb8 staat wit beter.} 15. axb6 axb6 16. Bb5 Nc6 17. Nc4 $1
+{[%csl Rb6] Nu dreigt wit Lxc6 Lxc6 en Dxb6, de enige zet voor zwart is Te7,
+want na Dxb6 Dxb6 Pxb6 Tb7 Pc4 kan zwart d5 spelen, het probleem in de partij
+was was dat de d6 pion gepent was door de Loper h2.} Ne4 $2 {Ik probeerde was
+activiteit te krijgen, ik had Te7 gemist.} 18. Bxc6 Bxc6 19. Qxb6 Qxb6 20. Nxb6
+Bb5 {Beter was e5 met activiteit, maar nu heeft wit gewoon een pion meer.} 21.
+Rfd1 Be2 22. Re1 Bxf3 23. gxf3 Nd2 24. Kg2 cxd4 25. exd4 {Ik zou deze zet niet
+spelen, want nu is de de dubbelpion op de f lijn geisoleerd, en daar kon ik in
+de partij goed gebruik van maken.} e5 26. dxe5 $2 {d5 is beter, het houd de
+stelling gesloten en de c en b pionnen van wit gaan lopen. nu krijg ik
+tegenspel.} dxe5 27. Rad1 h5 {Ik wou meteen f5 spelen met het plan f5 en de
+loper op h2 staan ingesloten maar dan kan nog Te2, nu kan ik wel f5 spelen, na
+Te2  Pxf3 Txd8 Ph4 Kg3 f4 Kxh4 Lf6 mat!} 28. Re2 $2 {Nu heeft wit geen
+voordeel meer, na c4 f7 c5 is de pion van wit heel irritant.} Nxf3 29. Rxd8
+Nh4+ 30. Kg3 Nf5+ 31. Kg2 Rxd8 32. Nc4 $4 {Lg3 is gelijkspel.} Nh4+ 33. Kg3
+Rd3+ $1 34. Ne3 g5 35. Bg1 f5 36. Kh2 f4 37. Nc4 {Ik dacht dat na Pg2 Txh3 kon,
+jammer na Kxh3 Pf3 kan nog Pxf4 en de toren staat gedekt. na Pg2 wint Pf3
+gemakkelijk.} g4 {De stelling ziet er wel grappig uit, de koning van wit gaat
+bijna mat.} 0-1
+

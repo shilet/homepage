@@ -1,0 +1,69 @@
+[Event "Malakoff"]
+[Site "?"]
+[Date "2014.04.19"]
+[Round "9"]
+[White "Zinchenko, Yaroslav"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[ECO "B49"]
+[WhiteElo "2532"]
+[BlackElo "2408"]
+[Annotator "Jorden"]
+[PlyCount "132"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. Be3 Nf6 8.
+O-O Be7 (8... Bb4) 9. f4 d6 10. Qe1 O-O 11. Qg3 Nxd4 12. Bxd4 b5 13. a3 (13.
+Kh1) 13... Bb7 14. Kh1 Rad8 15. Bd3 Rd7 16. Rae1 Re8 17. Nd1 Bd8 {During the
+game I wasn't sure anymore what was the main line in this position.(Qd8 or Bd8)
+I played 17...Bd8 because for some reason i thought that it looked like a
+funny move.} 18. e5 {White opens the position immediately. 18.Ne3 also seems
+interesting.} dxe5 19. Bxe5 Qc5 {I thought for a long time here because I
+wasn't sure where to put the queen. 18...Qc6  looked like the most logical
+move but for some reason I was a little worried about moves like Be4 at some
+point. I also liked that the queen on c5 can go back to the kingside if needed.
+} 20. Ne3 (20. f5 Bc7 {During the game I wasn't very worried about this. In all
+variations black looks ok.} 21. Bxc7 (21. fxe6 Rxe6 22. Bxc7 (22. Rxf6 Rxe5 $19
+) 22... Rxe1 23. Rxe1 Qxc7 $15) 21... Qxc7 22. fxe6 Rxe6 23. Qxc7 Rxc7 24. Rxe6
+fxe6 {And with e5-e4 coming next black is not worse}) 20... g6 21. Qh3 a5 22.
+Qh6 Rxd3 $5 {I wanted to create the game as interesting as possible to create
+winning chances! After this move the white queen can get trapped and my bishop on
+b7 becomes very strong!} (22... Nh5 23. Be2 {I didn't like.}) 23. cxd3 Nh5 {
+Now the white queen is trapped and all that remains is to attack it. My plan
+is f6 and then go Be7-f8.} 24. d4 Qc6 (24... Qe7 {This interesting move was suggested by my opponent after the game. 
+Although probably it is not that good, I even didn't look at it during the game. Black wants to go Qh4 and then play Ng3+
+winning the queen.} 25. Kg1 f6 {traps the bishop and black seems to be much
+better but} (25... Qh4 26. g4 {now doesn't work.}) 26. f5 $1 {And suddenly
+blacks king doesn't feel very safe.} fxe5 (26... Qg7 27. Qxg7+ Nxg7 28. Bd6 {
+And the bishop escapes with a slightly better endgame for white.}) 27. fxg6 Nf4
+28. Nf5 exf5 29. Rxe5 Nxg6 30. Rxe7 Rxe7 {Is some crazy computer variation and
+here white is much better.}) 25. d5 {White tries to shut down my bishop at the
+cost of a pawn.} exd5 26. Bd4 Re4 27. Rd1 Be7 {Now the white queen is starting
+to get into real trouble so white has to take measures to safe it.} 28. Nf5 Bf8
+29. Qg5 f6 30. Qh4 {White got the queen out but his pieces are not
+coordinating great.} Qc2 31. Ne3 Qb3 $2 {A mistake in time trouble.} (31... Qa4
+$1) 32. Qf2 {White also misses his chance!} (32. Ng4 $1 {And suddenly white
+gets a winning attack.} Be7 {is what I thought during the game only
+calculating Nxf6.} 33. Bxf6 $1 (33. Nxf6+ $2 Bxf6 34. Bxf6 Rxf4 {and suddenly
+all the white pieces are hanging. White has to make a draw with:} 35. Rde1 Rxh4
+(35... Nxf6 36. Qxf4) 36. Re8+ Kf7 37. Re7+ Kg8 38. Re8+ Kf7 39. Re7+) 33...
+Nxf6 34. Nxf6+ Kf7 35. Rc1 $1 $18 Bxf6 36. Rc7+ Re7 37. Qxh7+ Kf8 38. Rxe7 Bxe7
+39. Re1 $18) 32... Nxf4 $2 {One more time allowing white to play Ng4.} (32...
+Rxf4 $1 $13) 33. Qc2 $2 {In huge time trouble white decides to go into a
+slightly worse endgame.} (33. Ng4 $1 Bg7 34. Bxf6 $18) 33... Qxc2 34. Nxc2 f5
+35. Rfe1 b4 $6 {I'm not sure if this is a great move because it allows white to
+get active play over the a file on the other hand now the black bishop  can
+join the action with Ba6-d3.} 36. axb4 axb4 37. b3 Ba6 38. Bb6 Bd3 39. Nd4
+Rxe1+ 40. Rxe1 Be4 {I though that I was much better here but in reality it is
+just equal} 41. Kg1 g5 42. g3 Nd3 43. Ra1 f4 44. Ne6 Be7 45. Ra7 Bf6 46. Bd4
+Bxd4+ 47. Nxd4 {White even has gotten a slight advantage here with my king cut
+of. Still my passed f-pawn should be very strong and I think that with
+accurate play I should be able to hold the balance.} f3 48. h4 $6 {Allowing
+the black knight to transfer to a better square also exchanging pawns what can
+only be favourable for the defender.} gxh4 49. gxh4 Nf4 50. Ra1 Ng6 51. h5 Ne5
+52. Kh2 Kg7 53. Kg3 Kh6 54. Ra8 Kxh5 55. Re8 Nd3 56. Nxf3 Kg6 57. Re6+ Kf5 58.
+Nd4+ Kg5 59. Nf3+ Kf5 60. Nd4+ Kg5 {And here we agreed to a draw. Playing for
+a win with white here can be very risky..} 61. Rb6 $5 h5 62. Nc6 h4+ 63. Kh2
+Ne1 64. Rxb4 Nf3+ 65. Kh3 Bf5+ 66. Kg2 Be4 {And white has to take a draw with
+Kh3 otherwise he may even end up worse.} 1/2-1/2
+

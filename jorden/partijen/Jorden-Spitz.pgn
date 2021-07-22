@@ -1,0 +1,63 @@
+[Event "Malakoff Echecs"]
+[Site "?"]
+[Date "2014.04.13"]
+[Round "3"]
+[White "Spitz, Patrick"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2146"]
+[BlackElo "2408"]
+[Annotator "Jorden"]
+[PlyCount "76"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. Nce2 {I think that this is a bit of a strange move. The knight was well
+placed on c3. My opponents plan was to strengthen his knight on d4 with c3 but
+I don't see any real reason to do that. It was not attacked or something like
+that.} Nf6 10. c3 Be7 11. f4 O-O {I think that I am already very much ok here
+having developed all my pieces.} 12. h3 (12. Be3 Ng4 {Was a bit annoying so
+white decides to play h3 first.}) 12... Rab8 13. Qd3 Rfe8 {Taking on d4
+immediately is possible but I don't have anything after Nxd4.} (13... Nxd4 14.
+Nxd4 e5 {Seems good but} 15. Nf5 {saves the day.} Bb5 16. Nxe7+ Qxe7 17. c4 {
+And white is ok. That's why I decided to play 13...Rfe8 first. to take with
+the rook on e7.}) 14. g4 $2 Nxd4 $1 {Now this is possible.} 15. cxd4 {Possibly
+my opponent thought that he was ok here because of all his pawns in the center
+but in reality I think that it are mainly weaknesses.} Bb5 16. Qe3 e5 $6 (16...
+d5 $1 17. e5 Ne4 {Was much better. with my knight standing beautifully on e4
+and Qc2 coming next.} 18. Bxe4 dxe4 19. Qxe4 {Seems to win a pawn but all the
+white squares are now weakened in his camp and his king doesn't feel
+very safe either.} Qc4 $17) 17. Rd1 {Now it is not so easy to continue.} h6 $6
+{This move is just to slow and can even be a target for a white attack later
+on with g5 later on.} (17... Rbc8 $15 {Is still slightly better for me
+although my knight doesn't stand on the beautiful e4 square anymore and can be
+kicked away with g5 at some point.}) (17... exf4 18. Nxf4 Bf8 {Was my initial
+plan to put pressure on e4 but now g5 is quite annoying so I decided to play
+17...h6 first.} (18... h6 $5 {h6 here is probably better then in the game.}))
+18. Nc3 Bd7 19. Kh1 b5 {My initial plan of exf4 was probably better than the
+text but for some reason I decided to change my plan and play b5.} (19... exf4
+20. Qxf4 Bf8) 20. dxe5 dxe5 21. g5 hxg5 $6 {This opens the c1-h6 diagonal for
+the white queen. I should have played b4 immediately.} (21... b4 $1 22. gxf6
+bxc3 23. fxe7 (23. fxg7 cxb2 {Just wins for black.}) 23... cxb2 24. Bxb2 Rxb2
+25. Rac1 Qb7 {This looks a bit scary for black with the advanced e7 pawn but I
+wil just pick it up and I will be a pawn up.} 26. Qa3 Rxg2 $5 27. Kxg2 Qxe4+
+28. Qf3 Bxh3+ 29. Kf2 Qxf3+ 30. Kxf3 Rxe7 $15) 22. fxg5 b4 23. Nd5 $6 (23. gxf6
+bxc3 24. fxg7 {Now the diagonal is open for the white queen, this is possible!}
+cxb2 (24... Bf6 25. bxc3 {and white is slightly better.}) 25. Qh6 {wins for
+white.}) 23... Nxd5 24. exd5 {During the game I thought that I should be
+better here but it is not so easy as I thought and a few inaccurate moves
+later I was about to get mated.} Bc5 (24... Bf5 {[%cal Gf5g6] Should be better
+defending the king.}) 25. Qg3 Qb6 26. Be4 {White is already creating some
+threats with Qh4 becoming possible and so on while black lacks any clear plan.
+} Rbc8 27. Rf1 {This position is already very dangerous for black and around
+here I started to realise it too.} g6 $2 (27... Qb5 $1 {Seems like a good move
+intending to transfer the queen to the kingside with Qe2-Qh5.}) 28. Rf6 Qb5 29.
+Bxg6 $1 {I underestimated this move thinking I could stop the attack.} Qe2 $1 {
+The only move to stay in the game.} (29... fxg6 30. Rxg6+ Kh7 31. Qf3 $1 {I
+completely missed this move in my calculations. I am just getting mated here.}
+Kxg6 32. Qf6+ Kh7 (32... Kh5) 33. g6+ Kg8 34. Qf7+ Kh8 35. Qh7#) 30. Bd3 Qd1+
+31. Rf1 Qh5 32. h4 e4 33. Bxa6 e3 34. Bxc8 Bxc8 35. Qf4 Bg4 36. Kg2 e2 (36...
+Kh8) (36... Kh7) (36... Kf8 37. Qg3) 37. Rh1 (37. Re1 Qxh4 38. Qg3 Bf3+ 39.
+Qxf3 Qxe1) 37... e1=Q 38. Rxe1 Rxe1 0-1
+

@@ -1,0 +1,29 @@
+[Event "WK Jeugd Maribor"]
+[Site "?"]
+[Date "2012.11.21"]
+[Round "2"]
+[White "Van Foreest, Jorden"]
+[Black "Rohrer, Christophe"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2231"]
+[BlackElo "1976"]
+[Annotator "Jorden van Foreest"]
+[PlyCount "95"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qf2 Bb7 12. Bb6 Qb8 13. Bc5 Bxc5 14. Nxc5
+Bc6 15. f4 Ng6 16. e5 Nd5 17. N5e4 Ndxf4 18. Nd6+ Ke7 $1 (18... Kf8 $2 19. Rd4
+$1 f6 20. Rxf4 Nxf4 21. Qxf4 $16) 19. Qc5 (19. Rd4 f6 $1 20. Rxf4 Nxf4 21. Qxf4
+fxe5 22. Qxe5 Qxd6 $19) 19... Kf8 {Here i dont have a clear skewer but i have
+enough compensation for the pawn} 20. Bd3 Bxg2 21. Rhg1 {Here Qa7 was a really
+good move and after that move black is even better.} Nh4 (21... Qa7 22. Qa3 Kg8
+{and i have no real compensation while black is just 2 pawns up.}) 22. Qb4 {My
+opponent missed this move. he excpected Nf5+ after which he has d6! and it
+isn't so easy.} (22. Nf5+ d6 23. Nxd6 Qa7 (23... Nf3 24. Bxh7 $3 Rxh7 25. Nc8+
+Kg8 26. Rd8#) 24. Qb4 Qe3+ $16) 22... Nfg6 23. Nf5+ Kg8 24. Nxh4 Bc6 25. Nxg6
+hxg6 26. Qf4 Qd8 27. Rdf1 Qe7 28. Rg4 Rh5 29. Qg3 Rd8 30. Rgf4 g5 31. Rxf7 Qxf7
+32. Rxf7 Kxf7 33. Be4 Rdh8 34. Bxc6 dxc6 35. Qf3+ Kg8 36. Qxc6 R8h6 37. Ne4 g4
+38. Qe8+ Kh7 39. Nf6+ gxf6 40. Qf7+ Kh8 41. exf6 Rg5 42. Qe8+ Kh7 43. f7 Rxh2
+44. f8=Q Rh1+ 45. Kd2 Rd5+ 46. Kc3 Rh2 47. Kb4 a5+ 48. Kxa5 1-0
+

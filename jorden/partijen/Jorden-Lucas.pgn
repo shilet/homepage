@@ -1,0 +1,34 @@
+[Event "WinterChess marzo IM"]
+[Site "Can Picafort (Palma de Mallor"]
+[Date "2014.03.23"]
+[Round "1.5"]
+[White "Van Foreest, Jorden"]
+[Black "Van Foreest, Lucas"]
+[WhiteElo "2380"]
+[BlackElo "2147"]
+[ECO "C46"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 
+Nge7 7. Qd2 O-O 8. O-O-O d5 9. exd5 Nxd5 10. Nxc6 bxc6 
+11. Bd4 Bxd4 12. Qxd4 Qg5+ 13. Kb1 Rd8 14. Bc4 Qxg2 {Lucas 
+likes winning pawns but I dont think its a great idea here 
+because his king will be in danger.} (14... c5 $5 {Is an 
+interesting move although I think white willbe slightly 
+better because of black weakened structure.}) 15. Bxd5 cxd5 
+16. Rhg1 {Lucas obviously had hoped for 16.Nxd5 when he 
+could take on d5 and in the end he would do a pin on my 
+rooks unfortunately for him saw that so I decided to move 
+my rook first.} (16. Nxd5 Rxd5 17. Qxd5 Qxd5 18. Rxd5 
+Bb7 $11) 16... Qxh2 {This doesn't seem very good to me 
+because the h-file will get opened.} (16... Qh3 $1 {Seemed 
+like the only move to me.} 17. Nxd5 Be6 18. Ne7+ $1 
+(18. Nf6+ Kh8 $1 {And white doesn't have a good discovered 
+attack.} (18... Kf8 19. Qc5+ Kg7 20. Nh5+)) 18... Kf8 
+19. Qf6 {And white is much better but it isn't that easy to 
+win.}) (16... Qf3 17. Rd3 $1 Qf5 18. Nxd5 {[%cal Gd5e7]}) 
+17. Rh1 {The rook returns but now the h-file is opened with 
+blacks help!} c5 (17... Qg2 18. Qh4 $18) 18. Qf6 Qd6 
+19. Nxd5 Kf8 {Lucas had seen enough of this game so I could 
+checkmate him :)} 20. Qh8# *
+

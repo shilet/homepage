@@ -1,0 +1,84 @@
+[Event "8th BPB Limburg Open 2014"]
+[Site "Maastricht NED"]
+[Date "2014.06.09"]
+[Round "6.4"]
+[White "Van Foreest, Jorden"]
+[Black "Vereggen, L."]
+[Result "1-0"]
+[ECO "B37"]
+[WhiteElo "2448"]
+[BlackElo "2172"]
+[PlyCount "99"]
+[EventDate "2014.06.06"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nc2 d6 7. e4 $6 Bxc3+
+$1 {Deze zet ziet er een beetje vreemd uit omdat zwart zijn sterke
+zwartveldige loper ruilt. Echter mijn pionnenstructuur wordt ernstig verzwakt.}
+8. bxc3 Nf6 9. f3 Be6 10. Nd4 Qa5 11. Bd2 Rc8 12. Qb3 O-O 13. Qxb7 {Ze zeggen
+wel eens: Pak nooit op b7 zelfs al is het goed. Ik denk alleen dat ik hier
+niet zoveel keus heb want als ik wacht gaat zwart vroeg of laat de c4 pion
+winnen. Ik zag tijdens de partij geen werlegging van het pakken op b7 dus ik
+besloot maar gewoon de pion te pakken.} Bd7 14. Nb3 Qh5 15. Be2 Qh4+ $5 {Na
+deze zet wordt het moeilijk voor mij om te rokeren. Ook interessant was 15...
+a5 zodat mijn dame niet makkelijk terug kan keren via a6. En zwart kan het
+witte paard aanvallen met ...a4} (15... a5 $5 16. Qb6 a4 17. Nc1 Ne5 {Ziet er
+niet erg fijn uit voor wit zelfs al vindt de engine het nog ongeveer gelijk
+spel.}) 16. Kf1 {Een onlogische zet. Ik kan nu namelijk nooit meer rokeren.
+Echter na g3 wordt mijn pionnenstructuur nog zwakker dan dat hij nu al was.} (
+16. g3 Qh3 17. Kf2 a5 {Vond ik er tijdens de partij niet fijn uit zien. Ik
+moet altijd rekening houden met offers op e4 en de c4 pion blijft erg zwak.})
+16... Rb8 17. Qa6 Nh5 18. Be1 Qg5 19. h4 {Deze zet ziet er gek uit, maar
+tijdens de partij was ik bang dat zwart mijn (slechte) witveldige loper zou
+pakken met ....Nf4. De witveldige loper dekt nu nog erg veel belangrijke
+velden.} Qe3 (19... Ng3+ 20. Bxg3 Qxg3 21. h5 {Was mijn plan tijdens de partij
+maar de computer heeft natuurlijk altijd weer een weerlegging:} (21. c5 $1 {Is
+waarschijnlijk beter, om de dame bij de verdediging te betrekken.}) 21... gxh5
+$1 22. Rxh5 Kh8 $1 {En als de toren bij de aanval komt is het gedaan voor wit.}
+) 20. c5 Ne5 {Ik had hier al vrij weinig tijd (10 min) voor ongeveer 20 zetten.
+Uiteindelijk besloot ik maar gewoon de pion te pakken nadat ik niet direct zag
+hoe zwart kon winnen zelfs al ziet het er erg gevaarlijk uit.} 21. cxd6 (21.
+Bf2 {Was de andere zet waar ik naar keek.} Qxc3 22. Rc1 Qb2 23. Bd4 Ng3+ 24.
+Kf2 Qxe2+ 25. Qxe2 Nxe2 26. Kxe2 Bb5+ {Dit zag ik mezelf niet winnen tijdens
+de partij dus besloot ik iets riskanter te spelen.}) 21... Bc8 22. Qa3 Nf4 23.
+Qb2 Nxe2 $2 {Lars zag niks dus besloot maar gewoon mijn loperpaar te
+elimineren. Toch kom ik nu los. Hij had activer moeten spelen.} (23... exd6 $1
+24. Qd2 Qxe2+ 25. Qxe2 Nxe2 26. Kxe2 a5 {En in dit eindspel heeft zwart
+voldoende compensatie voor de pion. Mijn koning staat niet veilig en zwart
+staat klaar mijn paard weg te schoppen met .. .a4 of mijn koning lastig te
+vallen met ...Ba6+}) (23... Nxf3 $5 24. Bf2 (24. gxf3 $6 Bh3+ 25. Rxh3 Nxh3 26.
+Kg2 Nf4+ 27. Kf1 $11) 24... Rxb3 25. Bxe3 Rxb2 26. Bxf3 {Leek mij tijdens de
+partij voordelig voor wit.}) 24. Qxe2 Qb6 25. Bf2 Qxd6 26. Kg1 {Nu heb ik
+alles weer redelijk onder controle. Mijn enige probleem was mijn tijd.} Ba6 27.
+Qe3 f5 $5 {Objectief gezien een vrij slechte zet  maar Lars probeerde het spel
+te compliceren aangezien ik vrij weinig tijd had.} 28. h5 $2 {En ik speel
+meteen ook een slechte zet! Ik zag te laat dat na 28...fxe4 29.Qxe4 Rxf3! 30.
+gxf3 Bb7! mogelijk was met erg sterke aanval voor de toren.} (28. exf5 $1 Rxf5
+29. Nd4 $18) 28... f4 (28... fxe4 29. Qxe4 (29. hxg6 Nxf3+ $1 30. gxf3 Qxg6+
+31. Kh2 Rb5 {Is ook niet bepaald aantrekkelijk.}) 29... Rxf3 30. gxf3 Bb7 {
+Deze stelling is natuurlijk erg gevaarlijk. Vooral voor iemand in tijdnood
+zelfs al geeft de computer nog gelijk spel.}) 29. Qc5 Rbc8 30. Qxd6 exd6 31.
+hxg6 hxg6 32. Bd4 {Nu heb ik een pion meer in het eindspel maar het is nog
+zeker niet makkelijk om het te winnen.} Bc4 33. Na5 Be6 34. a4 {Ik weet niet
+precies of dit helemaal goed is want mijn paard kan nu nooit meer terug. Aan
+de andere kant is het voor zwart erg moeilijk het paard ooit aan te vallen.}
+Rc7 35. Rd1 Rb8 36. Rh4 $6 {Een nutteloze zet omdat ik niet kan pakken op f4
+kan pakken na} g5 $6 (36... Kg7 $1 37. Rxf4 $4 g5 {En ik verlies mijn toren.})
+37. Rh5 Nf7 38. Rd2 Rb1+ 39. Kh2 Kf8 40. Rh7 {Hier heb ik eindelijk de
+tijdcontrole gehaald! Het enige minpuntje is dat ik geen voordeel meer heb
+maar dat is maar een detail :)} Ra1 41. Rb2 {Ik probeer natuurlijk binnen te
+komen op de 8ste rij.} Rxa4 42. Rb8+ $6 (42. Nb7 $1 {Was beter om zo veel
+mogelijk stukken op het bord te houden. Toch is het ook hier ongeveer gelijk
+spel. Zelfs al zou ik tijdens de partij liever wit hebben.} Rc6 $11) 42... Ke7
+$2 {Zwart kon een stuk beter meteen torens ruilen om van de matdreigingen te
+zijn verlost.} (42... Rc8 {Met torenruil is ongeveer gelijk spel. Ik moet
+zelfs oppassen want de zwarte a-pion kan zomaar gevaarlijk worden.} 43. Rxc8+
+Bxc8 44. Nc6 $11) 43. Nb7 {Nu is de zwarte koning plotseling in een matnet. Ik
+dreig ook Pd8.} Rd7 44. Rg7 $1 {Ik probeer de toren erbij te halen via g8 of
+g6.} Ra3 $4 {De toren staat hier bijzonder onhandig na de opening van de a3-f8
+diagonaal. Beter was 44...Ta2 waarna zwart duidelijk minder staat maar de
+partij is nog lang niet afgelopen.} (44... Ra2 45. Rg6 Rc7 {Was een betere
+poging geweest. Ook hier is de zwarte stelling geen pretje.}) 45. e5 $1 {Ik
+open de diagonaal f8-a3 voor mijn loper.} Rb3 (45... dxe5 46. Bc5+ {Nu blijkt
+dat a3 niet het handigste veld is voor de zwarte toren.}) 46. exd6+ Rxd6 47.
+Bc5 Kf6 48. Rxf7+ {En opgegeven vanwege} Bxf7 49. Bxd6 Bd5 50. Nc5 $18 1-0
+

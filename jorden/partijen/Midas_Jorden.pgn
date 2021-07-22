@@ -1,0 +1,43 @@
+[Event "NK Jeugd 2013, A Jeugd"]
+[Site "Sneek"]
+[Date "2013.04.28"]
+[Round "2"]
+[White "Ratsma, Midas"]
+[Black "Van Foreest, Jorden"]
+[Result "0-1"]
+[ECO "A13"]
+[Annotator "Jorden"]
+[PlyCount "54"]
+[EventDate "2013.04.27"]
+[EventRounds "9"]
+[EventCountry "NED"]
+[TimeControl "6000+1025"]
+[WhiteClock "0:10:04"]
+[BlackClock "0:22:42"]
+
+1. Nf3 {I didn't really prepare for this round because I saw that my opponent
+played boring openings.} Nf6 2. c4 e6 3. e3 b6 4. Nc3 Bb7 5. b3 d5 6. Bb2 Nbd7
+7. d4 Bd6 8. Qc2 O-O 9. Be2 Qe7 10. O-O a6 11. Rad1 Rfe8 12. Nd2 c5 {I think
+that i'm already slightly better here because my opponent was playing without
+any particular plan.} 13. dxc5 bxc5 14. cxd5 exd5 15. Nf3 Ne5 16. Qf5 Rad8 17.
+Na4 d4 $1 {I opened here the position because al my forces are ready for the
+attack.} (17... Neg4 {Herman Grooten thinks that this is the best move but it
+isn't} 18. b4 cxb4 19. Bd4 $17) 18. exd4 Be4 19. Qh3 Ng6 20. g3 Nd5 $1 {I had
+seen this far and I concluded that this was very good because Nf4 is very
+difficult to prevent.} 21. Ne5 $2 (21. Bc1 {This was the best move but even
+here white is lost.} Bf4 $1 {Of course the white defender of the square f4 has
+to be eliminated.} 22. Ba3 (22. Bxf4 $2 Ndxf4 23. gxf4 Nxf4 24. Qg4 Nxe2+ 25.
+Kh1 Qh4 26. Qxh4 Bxf3#) 22... Qf6 $1 23. Ne5 (23. dxc5 Bc7 {[%cal Gg6f4]} 24.
+Qg4 (24. Bc1 Bxf3) 24... h5 $1 25. Qg5 (25. Qxh5 Ngf4) 25... Ngf4 26. gxf4 Nxf4
+27. Qxf6 Nxe2+ 28. Kg2 gxf6 $19) 23... Bxe5 24. dxe5 Ngf4 25. Qg4 Qf5 26. gxf4
+Nxf4 27. Bf3 Nh3+ 28. Qxh3 Qxh3 29. Rxd8 (29. Bxe4 Rxd1 30. Rxd1 Qg4+) 29...
+Rxd8 30. Bxe4 Rd1 31. Rxd1 (31. Bg2 Rxf1+ 32. Bxf1 Qg4+ 33. Bg2 c4 $19 {and
+because of white very bad coordination he is lost!}) 31... Qg4+ 32. Bg2 Qxd1+
+33. Bf1 c4 $1 34. Nc5 c3 35. Nd3 Qd2 36. Bc1 Qxa2 37. b4 Qd5 $19) 21... Ngf4
+22. gxf4 Nxf4 23. Qg4 Bxe5 (23... Qg5 {This looks like a great move but white
+can still play on after f3.} 24. f3 (24. Qxg5 $4 Nh3#) 24... Rxe5 25. Qxg5
+Rxg5+ 26. Kh1 Nxe2 27. fxe4 Rh5 28. Rf2 $17) (23... Nxe2+ $2 24. Qxe2 Bxe5 {
+Also looks winning but after} 25. f3 {It is white who is better!}) 24. Bc1 (24.
+dxe5 Nxe2+ 25. Qxe2 Qg5+) 24... Nxe2+ {And white resigned because of} 25. Qxe2
+Bxh2+ 26. Kxh2 Qh4+ 27. Kg1 Qh1# 0-1
+
