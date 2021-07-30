@@ -77,12 +77,12 @@ if (st=='js') { // calling PowerPhlogger by JavaScript-tag
 		r = r+"&url="+document.URL; // $HTTP_REFERER problem with NS,...
 	}
 	document.open();
-	document.write("<script language=\"JavaScript\" type=\"text/javascript\" src=\"http://www.voordelighosting.com/scripts/pphlogger/pphlogger.php"+r+"\"></script>");
+	document.write("<script language=\"JavaScript\" type=\"text/javascript\" src=\"https://www.voordelighosting.com/scripts/pphlogger/pphlogger.php"+r+"\"></script>");
 	document.close();
 } else { // calling PowerPhlogger by IMG-tag
 	rand = Math.round(1000*Math.random());
 	r = r+"&b="+rand;  //force the page to load the IMG
 	document.open();
-	document.write("<img src=\"http://www.voordelighosting.com/scripts/pphlogger/pphlogger.php"+r+"\" alt=\"\" border=\"0\">");
+	document.write("<img src=\"https://www.voordelighosting.com/scripts/pphlogger/pphlogger.php"+r+"\" alt=\"\" border=\"0\">");
 	document.close();
 }
